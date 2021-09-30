@@ -129,7 +129,6 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <script src="https://cdn.pagesense.io/js/paulsalele/be955c9977fd489dac85630f8c832229.js"></script>
       <title>Home Page</title>
       <h1 style={headingStyles}>
         Congratulations
